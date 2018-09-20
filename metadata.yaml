@@ -1,0 +1,27 @@
+_repo: Den-svenska-Arbetareskyddslagstiftningen-och-Yrkesinspektionen_52732
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stjernstedt, Georg
+    alias: Stjernstedt, Georg, friherre
+    birthdate: 1876
+    deathdate: 1963
+    gutenberg_agent_id: '36605'
+    url: http://www.gutenberg.org/2009/agents/36605
+    wikipedia: http://sv.wikipedia.org/wiki/Georg_Stjernstedt
+description: ''
+gutenberg_issued: '2016-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52732'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrial safety -- Sweden'
+- !lcsh 'Labor inspection -- Sweden'
+- !lcc 'HD'
+- GITenberg
+title: Den svenska Arbetareskyddslagstiftningen och Yrkesinspektionen
+url: http://www.gutenberg.org/ebooks/52732
